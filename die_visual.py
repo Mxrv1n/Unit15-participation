@@ -32,3 +32,5 @@ fig.update_layout(xaxis_dtick=1)
 
 fig.write_html('die_visual_d6d10.html')
 fig.show()
+
+##DO RANDOM WALKS AS WELL FROM TEXTBOOK BEFORE SUBMMITTING
